@@ -4,12 +4,6 @@ This is a **fully responsive and modern developer portfolio** built using **Reac
 
 ---
 
-## 🌐 Live Demo
-
-> 🔗 [View Portfolio](#) *(Add your deployed site URL if available — e.g., Vercel, Netlify)*
-
----
-
 ## ✨ Features
 
 - 🖼️ Hero Section with Introduction
@@ -19,16 +13,5 @@ This is a **fully responsive and modern developer portfolio** built using **Reac
 - 📬 Contact Form or Info
 - 📱 Fully Responsive Design (Mobile, Tablet, Desktop)
 - ⚡ Smooth Scroll and Clean Transitions
-
----
-
-## 🛠️ Tech Stack
-
-| Technology     | Purpose                          |
-|----------------|----------------------------------|
-| **React.js**   | Frontend Library                 |
-| **Tailwind CSS** (or CSS) | Styling and Layout         |
-| **Vite**       | Build Tool for Fast Development  |
-| **EmailJS / Formspree** (optional) | Contact Form Integration |
 
 ---
